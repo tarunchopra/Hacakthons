@@ -82,7 +82,7 @@ The key files containing authentication and Office 365 API logic are the followi
 
 **app.js** - Provides the app configuration values used by ADAL for driving protocol interactions with AAD, indicates which routes should not be accessed without previous authentication, issues login and logout requests to Azure AD, handles both successful and failed authentication callbacks from Azure AD, and displays information about the user received in the **id_token**.
 
-**filesApiCtrl.js**- Shows how to take advantage of the **acquireToken()** method in ADAL.js to get a token for accessing a resource, as well as how to make a CORS request to the Office 365 Files API. 
+**filesApiCtrl.js**- Shows how to take advantage of the **acquireToken()** method in ADAL.js to get a token for accessing a exchange to get calendar events
 
 **userDataCtrl.js** - Shows how to extract user information from the cached id_token.
 
