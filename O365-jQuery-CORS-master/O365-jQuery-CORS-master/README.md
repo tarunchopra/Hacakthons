@@ -1,4 +1,4 @@
-Office 365 CORS Sample for jQuery
+Javascript Sample : Outlook calendar events using adal.js
 ====================
 This sample demonstrates how to use Azure Active Directory Authentication Library (ADAL) for JavaScript to secure a single-page app written independently of any frameworks. Additionally, this sample shows how to set up ADAL JS to make HTTP requests to the Office 365 APIs, as well as how to use CORS to execute a request. 
 
