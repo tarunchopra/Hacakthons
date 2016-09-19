@@ -5,8 +5,8 @@
 
     var resource = 'https://outlook.office.com';
     var endpoint = 'https://outlook.office.com/api/v2.0/me/mailfolders/inbox/messages?$top=10';
-    var clientID = 'd565be63-3d96-4354-944a-2db69d44cc60';
-    var tenantName = 'microsoft.onmicrosoft.com';
+    var clientID = 'xxxxx';
+    var tenantName = 'xxxxx';
 
     // Enter Global Config Values & Instantiate ADAL AuthenticationContext
     window.config = {
