@@ -39,8 +39,8 @@ Return to these instructions after your Office 365 tenant is associated with you
 9. For the App ID URI, enter `https://<your_tenant_name>/O365-jQuery-CORS`, replacing `<your_tenant_name>` with the name of your Azure AD tenant.
 10. Next, click the **Configure** tab near the top of the portal. 
 11. Scroll down to the **permissions to other applications** section and click **Add application**.
-12. Choose **Office 365 SharePoint Online** and then click the check mark icon.
-13. Choose the **Delegated Permissions** column for Office 365 SharePoint Online, and check **Read users' files**.
+12. Choose **Office 365 Exchange Online** and then click the check mark icon.
+13. Choose the **Delegated Permissions** column for Office 365 SharePoint Online, and check **Read and write user calendars**.
 14. Click **Save** in the bottom tray.
 
 
